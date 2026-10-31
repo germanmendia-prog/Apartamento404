@@ -1,0 +1,17 @@
+{
+  "name": "Medidas Apto Jacaranda B3",
+  "short_name": "Medidas",
+  "description": "Planos y medidas de muebles para llevar en el celular.",
+  "lang": "es",
+  "start_url": "./index.html#muebles",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFC20E",
+  "theme_color": "#FFC20E",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
