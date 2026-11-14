@@ -1,6 +1,6 @@
 /* Funciona sin internet: guarda los archivos la primera vez que abres la página.
    Si cambias algo en index.html, sube el número de VERSION para que los celulares se actualicen. */
-const VERSION = 'medidas-v2';
+const VERSION = 'medidas-v3';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
